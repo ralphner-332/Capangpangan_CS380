@@ -17,5 +17,3 @@ class Token {
         return type + " " + lexeme + " " + literal;
     }
 }
-
-// add
